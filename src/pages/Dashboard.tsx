@@ -461,7 +461,7 @@ export default function Dashboard() {
             <span className="text-xs font-black uppercase tracking-[0.2em] text-neon-green opacity-60 animate-pulse">Live Now</span>
           </div>
           <div>
-            <span className="text-2xl font-black text-black uppercase tracking-tighter">Central de Execução</span>
+            <span className="text-2xl font-black text-white uppercase tracking-tighter">Central de Execução</span>
             <p className="text-xs text-gray-500 mt-1 uppercase tracking-widest">Acompanhamento em Tempo Real</p>
           </div>
         </Link>
